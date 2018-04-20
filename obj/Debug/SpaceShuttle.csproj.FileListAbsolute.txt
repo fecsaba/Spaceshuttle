@@ -1,0 +1,8 @@
+C:\Users\Csaba\source\repos\SpaceShuttle\bin\Debug\SpaceShuttle.exe.config
+C:\Users\Csaba\source\repos\SpaceShuttle\bin\Debug\SpaceShuttle.exe
+C:\Users\Csaba\source\repos\SpaceShuttle\bin\Debug\SpaceShuttle.pdb
+C:\Users\Csaba\source\repos\SpaceShuttle\obj\Debug\SpaceShuttle.csprojResolveAssemblyReference.cache
+C:\Users\Csaba\source\repos\SpaceShuttle\obj\Debug\SpaceShuttle.csproj.CoreCompileInputs.cache
+C:\Users\Csaba\source\repos\SpaceShuttle\obj\Debug\SpaceShuttle.exe
+C:\Users\Csaba\source\repos\SpaceShuttle\obj\Debug\SpaceShuttle.pdb
+C:\Users\Csaba\source\repos\SpaceShuttle\bin\Debug\kuldetesek.csv
